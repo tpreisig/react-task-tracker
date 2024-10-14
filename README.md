@@ -1,6 +1,6 @@
 # React Task Tracker
 
-This is a calendar task tracker app built for the sake of familiarization with React. It allows users to add, delete and mark tasks as complete. It illustrates state management, and the use of props and components.
+This is a calendar task tracker app built for the sake of familiarization with React. It allows users to add and delete calendar events, and set a reminder for those events. It illustrates state management, and the use of props and components in React.
 
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)

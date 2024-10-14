@@ -20,8 +20,8 @@ const App = () => {
     },
     {
         id:3,
-        text: "Meet the Gossip Girls",
-        day: "2024  October 9 at 7:30pm",
+        text: "Meet my Gossip Girls",
+        day: "2024  October 19 at 7:30pm",
         reminder: false,
     },
     {

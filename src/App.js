@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Header from './components/Header';
-import Tasks from "./components/Tasks";
-import AddTask from "./components/AddTask";
+import Header from './Components/Header';
+import Tasks from "./Components/Tasks";
+import AddTask from "./Components/AddTask";
 
 const App = () => {
   const [showAddTask, setShowAddTask] = useState (true)
